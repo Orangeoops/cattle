@@ -13,7 +13,7 @@ if [[ ! -x "$0" ]]; then
 fi
 
 # Define initial app lists
-aptapps=("yt-dlp" "neofetch" "btop" "htop" "cifs-utils" "conky" "curl" "wget" "nomacs" "nmap" "notepadqq" "python3" "vlc" "mpv" "gimp" "glimpse" "qbittorrent" "telegram-desktop")
+aptapps=("yt-dlp" "neofetch" "btop" "htop" "cifs-utils" "conky" "curl" "wget" "nomacs" "nmap" "notepadqq" "python3" "pip" "vlc" "mpv" "gimp" "glimpse" "qbittorrent" "telegram-desktop")
 snapapps=("brave" "irfanview" "kdenlive")
 removeapps=("firefox" "thunderbird" "ktorrent")
 
