@@ -1,0 +1,6 @@
+Screen (reconnect or just screen for new session)
+mega-cmd
+webdav foldername/
+quit --only-shell
+Ctrl a ctrl d to exit the screen session
+Done
